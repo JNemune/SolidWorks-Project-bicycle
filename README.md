@@ -10,3 +10,8 @@ SolidWorks project for Eng Technical Drawing 1 unit
   padel, 
   front tyre, 
 and assmble parts.
+
+co-workers:
+  Mohammad Amin Maddah
+  Syedeh Avin Omidvar
+  Kimia Vidadi
